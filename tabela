@@ -2,7 +2,7 @@
 <html lang="sl">
 <head>
   <meta charset="UTF-8">
-  <title>lacnilevi</title>
+  <title>tabela</title>
   <style>
     body {
       margin: 0;
@@ -19,6 +19,6 @@
   </style>
 </head>
 <body>
-  <img src="lacnilevi.jpg" alt="Slika">
+  <img src="tabelajpg" alt="Slika">
 </body>
 </html>
